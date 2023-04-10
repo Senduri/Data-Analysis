@@ -1,0 +1,274 @@
+,Company and Vaccine Name ,License  Holder ,Company's Country,Purchaser Entity / Country,Purchaser's country Economic  Status ,Value of Deal (USD),Number of Doses Procured,COVID Burden (cases/million) ,Number of Doses Needed per Person, Number of people able to be vaccinated with doses procured , Population  ,% of national population able to be vaccinated , Doses intended to be purchased  ,Number of people able to be vaccinated with additional doses,% of national population able to be vaccinated with additional doses,Limited Regulatory Approval ,Full Regulatory Approval ,Agreement status
+0,Oxford-AstraZeneca _AZD1222,SII,UK,African Union ,Low income ,,"500,000,000","3,329",2.0," 250,000,000 "," 1,359,998,350 ",18%,,,,2/25/2021,,Confirmed agreement
+1,Oxford-AstraZeneca _AZD1222,SII,UK,Argentina,Upper middle income ,,"23,600,000","61,279",2.0," 11,800,000 "," 44,938,712 ",26%,,,,12/30/2020,,Confirmed agreement
+2,Oxford-AstraZeneca _AZD1222,AZ,UK,Australia,High income ,,"53,800,000","1,161",2.0," 26,900,000 "," 25,364,307 ",106%,,,,2/16/2021,,Confirmed agreement
+3,Oxford-AstraZeneca _AZD1222,SII,UK,Bangladesh,Lower middle income," $87,000,000 ","33,000,000","4,445",2.0," 16,500,000 "," 163,046,161 ",10%,,,,1/4/2021,,Confirmed agreement
+4,Oxford-AstraZeneca _AZD1222,SII,UK,Bolivia ,Lower middle income ,,"5,000,000","25,106",2.0," 2,500,000 "," 11,513,100 ",22%,,,,,,Confirmed agreement
+5,Oxford-AstraZeneca _AZD1222,SII,UK,Brazil,Upper middle income,,"10,000,000","66,442",2.0," 5,000,000 "," 211,049,527 ",2%,,,,1/17/2021,3/12/2021,Confirmed agreement
+6,Oxford-AstraZeneca _AZD1222,AZ,UK,Brazil,Upper middle income," $360,000,000 ","92,000,000","66,442",2.0," 46,000,000 "," 211,049,527 ",22%," 100,000,000 ","50,000,000",24%,1/17/2021,3/12/2021,Confirmed agreement
+7,Oxford-AstraZeneca _AZD1222,SII,UK,Cambodia,Lower middle income ,,"100,000",463,2.0," 50,000 ",16486542,0%," 5,000,000 ","2,500,000",15.2%,2/12/2021,,Confirmed agreement 
+8,Oxford-AstraZeneca _AZD1222,SII,UK,Canada,High income ,,"2,000,000","30,604",2.0," 1,000,000 "," 37,589,262 ",3%,,,,2/26/2021,,Confirmed agreement
+9,Oxford-AstraZeneca _AZD1222,AZ,UK,Canada,High income ,,"20,000,000","30,604",2.0," 10,000,000 "," 37,589,262 ",27%,,,,2/26/2021,,Confirmed agreement
+10,Oxford-AstraZeneca _AZD1222,AZ,UK,Chile ,High income ,,"14,400,000","59,709",2.0," 7,200,000 "," 18,952,038 ",38%,,,,1/27/2021,,Confirmed agreement
+11,Oxford-AstraZeneca _AZD1222,AZ,UK ,Colombia ,Upper middle income ,,"10,000,000","53,089",2.0," 5,000,000 "," 50,339,443 ",10%,,,,2/23/2021,,Confirmed agreement
+12,Oxford-AstraZeneca _AZD1222,AZ,UK ,Costa Rica ,Upper middle income ,"$4,000,000 ","1,000,000","45,837",2.0," 500,000 "," 5,047,561 ",10%,,,,2/26/2021,,Confirmed agreement
+13,Oxford-AstraZeneca _AZD1222,AZ,UK,COVAX,Global Entity,,"170,000,000",,2.0," 85,000,000 ",,,,,,2/15/2021,,Confirmed agreement
+14,Oxford-AstraZeneca _AZD1222,AZ,UK,Dominican Republic,Upper middle income ," $40,000,000 ","10,000,000","24,189",2.0," 5,000,000 "," 10,738,959 ",47%,,,,1/6/2021,,Confirmed agreement
+15,Oxford-AstraZeneca _AZD1222,SII,UK,Dominican Republic,Upper middle income ,,"110,000","24,189",2.0," 55,000 "," 10,738,960 ",1%,,,,1/6/2021,,Confirmed agreement
+16,Oxford-AstraZeneca _AZD1222,AZ,UK,Ecuador ,Upper middle income,,"5,000,000","20,566",2.0," 2,500,000 "," 17,373,662 ",14%,,,,1/24/2021,,Confirmed agreement
+17,Oxford-AstraZeneca _AZD1222,SII,UK,Egypt,Lower middle income,,"30,000,000","2,139",2.0," 15,000,000 "," 100,388,073 ",15%,,,,2/2/2021,,Confirmed agreement
+18,Oxford-AstraZeneca _AZD1222,SII,UK ,El Salvador,Lower middle income ,,"2,000,000","10,485",2.0," 1,000,000 "," 6,453,553 ",15%,,,,12/30/2020,,Confirmed agreement
+19,Oxford-AstraZeneca _AZD1222,AZ,UK,EU ,High income ," $966,000,000 ","300,000,000","66,844",2.0," 150,000,000 "," 447,512,041 ",34%," 100,000,000 ","50,000,000",11%,1/29/2021,,Confirmed agreement
+20,Oxford-AstraZeneca _AZD1222,SII,UK,EU ,High income ,,,"66,844",2.0,," 447,512,041 ",," 10,000,000 ","5,000,000",1%,1/29/2021,,Confirmed agreement
+21,Oxford-AstraZeneca _AZD1222,AZ,UK,Honduras,Lower middle income,,"1,400,000","20,436",2.0," 700,000 "," 9,746,117 ",7%,,,,4/20/2021,,Confirmed agreement
+22,Oxford-AstraZeneca _AZD1222,SII,UK,India,Lower middle income,,"100,000,000","11,544",2.0," 50,000,000 "," 1,366,417,754 ",3.7%," 400,000,000 ","200,000,000",15%,1/2/2021,,Confirmed agreement
+23,Oxford-AstraZeneca _AZD1222,AZ,UK,Indonesia,Upper middle income," $500,000,000 ","50,000,000","5,925",2.0," 25,000,000 "," 270,625,568 ",9%,,,,3/8/2021,,Confirmed agreement 
+24,Oxford-AstraZeneca _AZD1222,AZ,UK,Iraq,Upper middle income ,,"2,000,000","24,908",2.0," 1,000,000 "," 39,309,783 ",3%,,,,1/19/2021,,Confirmed agreement
+25,Oxford-AstraZeneca _AZD1222,AZ,UK,Israel ,High income,,"10,000,000","96,758",2.0," 5,000,000 "," 9,053,300 ",55%,,,,,,Confirmed agreement 
+26,Oxford-AstraZeneca _AZD1222,AZ,UK,Japan,High income ,,"120,000,000","4,332",2.0," 60,000,000 "," 126,264,931 ",48%,,,,,,Confirmed agreement
+27,Oxford-AstraZeneca _AZD1222,SII,UK,Kuwait ,High Income ,,"3,000,000","61,188",2.0," 1,500,000 "," 4,207,083 ",36%,,,,1/29/2021,,Confirmed agreement
+28,Oxford-AstraZeneca _AZD1222,AZ ,UK,Latin America w/o Brazil ,Upper middle income ,,"127,600,000",,2.0," 63,800,000 ",,,,,,,,Confirmed agreement
+29,Oxford-AstraZeneca _AZD1222,AZ,UK,Lebanon,Upper middle income ,,,"75,466",2.0, -   ," 6,855,713 ",," 1,500,000 ","750,000",11%,,,Under negotiation 
+30,Oxford-AstraZeneca _AZD1222,AZ,UK ,Malaysia ,Upper middle income,"$504,400,000 ","6,400,000","11,797",2.0," 3,200,000 "," 31,949,777 ",10%,,,,3/2/2021,,Confirmed agreement; also includes manufacturing info
+31,Oxford-AstraZeneca _AZD1222,SII,UK,Mauritius,High income ,,"100,000",947,2.0," 50,000 "," 1,265,711 ",4%,,,,"Approved, unknown date",,Confirmed agreement
+32,Oxford-AstraZeneca _AZD1222,AZ,UK,Mexico ,Upper middle income ,,"77,400,000","17,961",2.0," 38,700,000 "," 127,575,529 ",30%,,,,1/4/2021,,Confirmed agreement; also includes manufacturing info
+33,Oxford-AstraZeneca _AZD1222,SII,UK,Mexico ,Upper middle income ,,"2,030,000","17,961",2.0," 1,015,000 "," 127,575,529 ",1%,,,,1/4/2021,,Confirmed agreement
+34,Oxford-AstraZeneca _AZD1222,AZ,UK ,Morocco ,Lower middle income ,,"25,000,000","13,745",2.0," 12,500,000 "," 36,471,769 ",34%,,,,1/6/2021,,Confirmed agreement
+35,Oxford-AstraZeneca _AZD1222,SII,UK ,Morocco ,Lower middle income ,,"25,000,000","13,745",2.0," 12,500,000 "," 36,471,769 ",34%,,,,1/6/2021,,Confirmed agreement
+36,Oxford-AstraZeneca _AZD1222,SII,UK,Myanmar,Lower middle income ,,"33,500,000","2,622",2.0," 16,750,000 "," 54,045,420 ",31%,,,,"Approved, unknown date",,Confirmed agreement 
+37,Oxford-AstraZeneca _AZD1222,SII,UK,Nepal,Lower middle income ,,"2,000,000","9,946",2.0," 1,000,000 ",28608710,3%,,,,1/15/2021,,Confirmed agreement
+38,Oxford-AstraZeneca _AZD1222,AZ,UK ,New Zealand,High income ,,"7,600,000",539,2.0," 3,800,000 "," 4,917,000 ",77%,,,,,,Confirmed agreement
+39,Oxford-AstraZeneca _AZD1222,AZ ,UK,Palestine ,Lower middle income ,,"2,000,000","56,068",2.0," 1,000,000 "," 5,168,185 ",19%,,,,,,Confirmed agreement
+40,Oxford-AstraZeneca _AZD1222,SII,UK,Palestine ,Lower middle income ,,"25,000","56,068",2.0," 12,500 "," 5,168,185 ",0.2%,,,,,,Confirmed agreement
+41,Oxford-AstraZeneca _AZD1222,AZ,UK,Panama ,High income," $4,300,000 ",,"83,823",2.0,," 4,246,439 ",," 1,090,000 ","545,000",13%,,,Under negotiation 
+42,Oxford-AstraZeneca _AZD1222,AZ,UK,Peru ,Upper middle income ,,"14,000,000","52,138",2.0," 7,000,000 "," 32,510,453 ",22%,,,,,,Confirmed agreement
+43,Oxford-AstraZeneca _AZD1222,AZ,UK,Philippines,Lower middle income,,"17,000,000","8,782",2.0," 8,500,000 "," 108,116,615 ",8%,,,,1/28/2021,,Confirmed agreement
+44,Oxford-AstraZeneca _AZD1222,SII,UK,Saudi Arabia,High income,,"4,500,000","11,721",2.0," 2,250,000 "," 34,268,528 ",7%,,,,4/16/2021,,Confirmed agreement
+45,Oxford-AstraZeneca _AZD1222,SII,UK,South Africa ,Upper middle income ,,"1,000,000","26,471",2.0," 500,000 "," 58,558,270 ",1%,,,,1/27/2021,,Confirmed agreement
+46,Oxford-AstraZeneca _AZD1222,SK Bioscience,UK,South Korea ,High income ,,"20,000,000","2,275",2.0," 10,000,000 "," 51,709,098 ",19%,,,,2/10/2021,,Confirmed agreement
+47,Oxford-AstraZeneca _AZD1222,SII,UK,Sri Lanka,Lower middle income ,,"10,500,000","4,579",2.0," 5,250,000 "," 21,803,000 ",24%,,,,1/22/2021,,Donated from India 
+48,Oxford-AstraZeneca _AZD1222,SK Bioscience,UK,Taiwan ,High income ,,"10,000,000",45,2.0," 5,000,000 "," 23,839,313 ",21%,,,,2/20/2021,,Confirmed agreement
+49,Oxford-AstraZeneca _AZD1222,AZ,UK,Thailand ,Upper middle income ," $200,000,000 ","66,000,000",668,2.0," 33,000,000 "," 69,625,582 ",47%,,,,1/23/2021,,Confirmed agreement
+50,Oxford-AstraZeneca _AZD1222,AZ,UK,UK,High income,,"90,000,000","64,978",2.0," 45,000,000 "," 66,834,406 ",67%,,,,12/30/2020,,Confirmed agreement
+51,Oxford-AstraZeneca _AZD1222,SII,UK,UK,High income,,"10,000,000","64,978",2.0," 5,000,000 "," 66,834,407 ",7%,,,,12/30/2020,,Confirmed agreement
+52,Oxford-AstraZeneca _AZD1222,SII,UK,Ukraine,Lower middle income ,,"3,200,000","46,361",2.0," 1,600,000 "," 44,385,155 ",4%,,,,2/22/2021,,Confirmed agreement; 1.2M provided as a gift from Poland
+53,Oxford-AstraZeneca _AZD1222,AZ,UK,USA,High income ," $1,486,927,159 ","300,000,000","96,259",2.0," 150,000,000 "," 328,239,523 ",46%,,,,,,Confirmed agreement
+54,Oxford-AstraZeneca _AZD1222,AZ,UK,Vietnam ,Lower middle income,,"30,000,000",29,2.0," 15,000,000 "," 96,462,106 ",16%,,,,1/29/2021,,Confirmed agreement
+55,Pfizer-BioNTech_BNT162,,USA/Germany ,African Union ,Low income ,," 50,000,000 ","3,329",2.0," 25,000,000 "," 1,359,998,350 ",2%,,,,,,Confirmed agreement
+56,Pfizer-BioNTech_BNT162,,USA/Germany ,Albania ,Upper middle income ,," 500,000 ","45,166",2.0," 250,000 "," 2,854,191 ",9%,,,,"Approved, unknown date",,Confirmed agreement
+57,Pfizer-BioNTech_BNT162,,USA/Germany ,Australia,High income ,,"40,000,000","1,161",2.0," 20,000,000 "," 25,364,307 ",79%,,,,1/25/2021,,Confirmed agreement
+58,Pfizer-BioNTech_BNT162,,USA/Germany ,Brazil ,Upper middle income ,,"100,000,000","66,442",2.0," 50,000,000 "," 211,049,527 ",24%,,,,2/23/2021,2/23/2021,Confirmed agreement
+59,Pfizer-BioNTech_BNT162,,USA/Germany ,Canada,High income ,,"40,000,000","30,604",2.0," 20,000,000 "," 37,589,262 ",53%," 36,000,000 ","18,000,000",48%,12/9/2020,,Confirmed agreement
+60,Pfizer-BioNTech_BNT162,,USA/Germany ,Chile,High income ,,"10,000,000","59,709",2.0," 5,000,000 "," 18,952,038 ",26%,,,,12/16/2020,,Confirmed agreement
+61,Pfizer-BioNTech_BNT162,,USA/Germany ,China ,Upper middle income ,,"100,000,000",71,2.0," 50,000,000 "," 1,397,715,000 ",4%,,,,,,Confirmed agreement
+62,Pfizer-BioNTech_BNT162,,USA/Germany ,Colombia ,Upper middle income ,,"10,000,000","53,089",2.0," 5,000,000 "," 50,339,443 ",10%,,,,1/5/2021,,Confirmed agreement
+63,Pfizer-BioNTech_BNT162,,USA/Germany ,Costa Rica ,Upper middle income ,,"4,000,075","45,837",2.0," 2,000,038 "," 5,047,561 ",40%,,,,12/15/2020,,Confirmed agreement
+64,Pfizer-BioNTech_BNT162,,USA/Germany ,COVAX ,Global Entity ,," 40,000,000 ",,2.0," 20,000,000 ",,,,,,12/31/2020,,Confirmed agreement 
+65,Pfizer-BioNTech_BNT162,,USA/Germany ,Dominican Republic,Upper middle income ,," 7,900,000 ","24,189",2.0," 3,950,000 "," 10,738,958 ",37%,,,,,,Confirmed agreement
+66,Pfizer-BioNTech_BNT162,,USA/Germany ,Ecuador ,Upper middle income,,"6,000,000","20,566",2.0," 3,000,000 "," 17,373,662 ",17%,,,,12/17/2020,,Confirmed agreement
+67,Pfizer-BioNTech_BNT162,,USA/Germany ,EU ,High income ,,"550,000,000","66,844",2.0," 275,000,000 "," 447,512,041 ",61%," 100,000,000 ","50,000,000",11%,12/21/2020,,Confirmed agreement
+68,Pfizer-BioNTech_BNT162,,USA/Germany ,Germany ,High income ,,,"38,467",2.0,," 83,132,799 ",," 30,000,000 ","15,000,000",18%,12/21/2020,,Under negotiation 
+69,Pfizer-BioNTech_BNT162,,USA/Germany ,Hong Kong ,High income,,"7,500,000","1,561",2.0," 3,750,000 "," 7,507,400 ",50%,,,,1/25/2021,,Confirmed agreement
+70,Pfizer-BioNTech_BNT162,,USA/Germany ,Indonesia ,Upper middle income ,,,"5,925",2.0,," 270,625,568 ",," 50,000,000 ","25,000,000",9%,,,Under negotiation 
+71,Pfizer-BioNTech_BNT162,,USA/Germany ,Iraq,Upper middle income ,,"1,500,000","24,908",2.0," 750,000 "," 39,309,783 ",2%,,,,12/27/2020,,Confirmed agreement
+72,Pfizer-BioNTech_BNT162,,USA/Germany ,Israel ,High income ," $120,000,000 ","8,000,000","96,758",2.0," 4,000,000 "," 9,053,300 ",44%,,,,12/19/2020,,Confirmed agreement
+73,Pfizer-BioNTech_BNT162,,USA/Germany ,Japan,High income ,,"144,000,000","4,332",2.0," 72,000,000 "," 126,264,931 ",57%,,,,2/14/2021,,Confirmed agreement
+74,Pfizer-BioNTech_BNT162,,USA/Germany ,Jordan,Upper middle income ,," 1,000,000 ","68,155",2.0," 500,000 "," 10,101,694 ",5%,,,,12/15/2020,,Confirmed agreement 
+75,Pfizer-BioNTech_BNT162,,USA/Germany ,Kazakhstan ,Upper middle income ,,,"18,639",2.0,," 18,513,930 ",,,,,,,"Confirmed agreement, unknown amount "
+76,Pfizer-BioNTech_BNT162,,USA/Germany ,Kuwait ,High income ,,"1,000,000","61,188",2.0," 500,000 "," 4,207,083 ",12%,,,,12/13/2020,,Confirmed agreement
+77,Pfizer-BioNTech_BNT162,,USA/Germany ,Lebanon ,Upper middle income," $18,000,000 ","2,000,000","75,466",2.0," 1,000,000 "," 6,855,713 ",15%,,,,"Approved, unknown date",,Confirmed agreement
+78,Pfizer-BioNTech_BNT162,,USA/Germany ,Macao,High Income ,,,,2.0,," 640,445 ",," 400,000 ","200,000",31%,,,Under negotiation
+79,Pfizer-BioNTech_BNT162,,USA/Germany ,Malaysia ,Upper middle income,,"25,000,000","11,797",2.0," 12,500,000 "," 31,949,777 ",39%," 7,000,000 ","3,500,000",11%,1/9/2021,,Confirmed agreement
+80,Pfizer-BioNTech_BNT162,,USA/Germany ,Mexico ,Upper middle income ,,"34,400,000","17,961",2.0," 17,200,000 "," 127,575,529 ",13%,,,,12/11/2020,,Confirmed agreement
+81,Pfizer-BioNTech_BNT162,,USA/Germany ,New Zealand,High income ,,"10,000,000",539,2.0," 5,000,000 "," 4,917,000 ",102%,,,,2/3/2021,2/3/2021,Confirmed agreement
+82,Pfizer-BioNTech_BNT162,,USA/Germany ,North Macedonia ,Upper middle income ,,"800,000","71,335",2.0," 400,000 "," 2,083,459 ",19%,,,,"Approved, unknown date",,Confirmed agreement
+83,Pfizer-BioNTech_BNT162,,USA/Germany ,Oman,High income,," 370,000 ","35,987",2.0," 185,000 "," 4,974,986 ",4%,,,,12/16/2020,,Confirmed agreement
+84,Pfizer-BioNTech_BNT162,,USA/Germany ,Panama ,High income ," $48,000,000 ","5,000,000","83,823",2.0," 2,500,000 "," 4,246,439 ",59%,,,,12/15/2020,,Confirmed agreement
+85,Pfizer-BioNTech_BNT162,,USA/Germany ,Peru,Upper middle income ,,"20,000,000","52,138",2.0," 10,000,000 "," 32,510,453 ",31%,,,,2/2/2021,,Confirmed agreement
+86,Pfizer-BioNTech_BNT162,,USA/Germany ,Philippines,Lower middle income ,,,"8,782",2.0,," 108,116,615 ",," 15,000,000 ","7,500,000",7%,1/14/2021,,Under negotiation 
+87,Pfizer-BioNTech_BNT162,,USA/Germany ,Qatar ,High income ,,,"69,134",2.0,," 2,832,067 ",,,,,12/20/2020,,"Confirmed agreement, unknown amount "
+88,Pfizer-BioNTech_BNT162,,USA/Germany ,Saudi Arabia ,High income ,,"3,000,000","11,721",2.0," 1,500,000 "," 34,268,528 ",4%,,,,12/10/2020,12/10/2020,Confirmed agreement
+89,Pfizer-BioNTech_BNT162,,USA/Germany ,Serbia ,Upper middle income ,," 500,000 ","98,581",2.0," 250,000 "," 6,944,975 ",4%,,,,12/18/2020,,Confirmed agreement 
+90,Pfizer-BioNTech_BNT162,,USA/Germany ,Singapore ,High income ,,,"10,406",2.0,," 5,703,569 ",,,,,12/14/2020,,"Confirmed agreement, unknown amount "
+91,Pfizer-BioNTech_BNT162,,USA/Germany ,South Africa ,Upper middle income ,,"20,000,000","26,471",2.0," 10,000,000 "," 58,558,270 ",17%,,,,3/16/2021,,Confirmed agreement
+92,Pfizer-BioNTech_BNT162,,USA/Germany ,South Korea ,High income ,,"20,000,000","2,275",2.0," 10,000,000 "," 51,709,098 ",19%,,,,3/5/2021,,Confirmed agreement
+93,Pfizer-BioNTech_BNT162,,USA/Germany ,Sri Lanka,Lower middle income ,,,"4,579",2.0,," 21,803,000 ",," 2,000,000 ","1,000,000",5%,,,Under negotiation 
+94,Pfizer-BioNTech_BNT162,,USA/Germany ,Switzerland,High income ,,"6,000,000","74,195",2.0," 3,000,000 "," 8,574,832 ",35%,,,,12/19/2020,12/19/2021,Confirmed agreement
+95,Pfizer-BioNTech_BNT162,,USA/Germany ,Taiwan ,High income ,,"30,000,000",45,2.0," 15,000,000 ",23839303,63%,,,,,,Confirmed agreement
+96,Pfizer-BioNTech_BNT162,,USA/Germany ,Tunisia,Lower middle income ,,"2,000,000","24,693",2.0," 1,000,000 "," 11,694,719 ",9%,,,,"Approved, unknown date",,Confirmed agreement
+97,Pfizer-BioNTech_BNT162,,USA/Germany ,Turkey ,Upper middle income ,,"4,500,000","52,723",2.0," 2,250,000 "," 83,429,615 ",3%," 30,000,000 ","15,000,000",18%,4/2/2021,,Confirmed agreement
+98,Pfizer-BioNTech_BNT162,,USA/Germany ,UK,High income ,,"40,000,000","64,978",2.0," 20,000,000 "," 66,834,405 ",30%,,,,12/2/2020,,Confirmed agreement
+99,Pfizer-BioNTech_BNT162,,USA/Germany ,Ukraine,Lower middle income ,,"10,000,000","46,361",2.0," 5,000,000 "," 44,385,155 ",11%,,,,"Approved, unknown date ",,Confirmed agreement
+100,Pfizer-BioNTech_BNT162,,USA/Germany ,United Arab Emirates ,High income ,,,"50,836",2.0,," 9,770,529 ",,,,,12/23/2020,,"Confirmed agreement, unknown amount "
+101,Pfizer-BioNTech_BNT162,,USA/Germany ,Uruguay,High income ,," 2,000,000 ","49,688",2.0," 1,000,000 "," 3,461,734 ",29%,,,,"Approved, unknown date ",,Confirmed agreement 
+102,Pfizer-BioNTech_BNT162,,USA/Germany ,USA,High income ," $1,950,000,000 ","300,000,000","96,259",2.0," 150,000,000 "," 328,239,523 ",46%," 300,000,000 ","150,000,000",46%,12/11/2020,,Confirmed agreement
+103,Moderna_mRNA-1273,,USA,Brazil,Upper middle income ,,,"66,442",2.0,," 211,049,527 ",," 63,000,000 ","31,500,000",15%,,,Under negotiation
+104,Moderna_mRNA-1273,,USA,Canada,High income ,,"44,000,000","30,604",2.0," 22,000,000 "," 37,589,262 ",59%,,,,12/23/2020,,Confirmed agreement
+105,Moderna_mRNA-1273,,USA,Colombia ,Upper middle income ,,"10,000,000","53,089",2.0," 5,000,000 "," 50,339,443 ",10%,,,,,,Confirmed agreement
+106,Moderna_mRNA-1273,,USA,EU ,High income ,,"310,000,000","66,844",2.0," 155,000,000 "," 447,512,041 ",35%," 150,000,000 ","75,000,000",17%,1/6/2021,,Confirmed agreement
+107,Moderna_mRNA-1273,,USA,Honduras,Lower middle income,,,"20,436",2.0,," 9,746,117 ",," 5,000 ","2,500",0.03%,4/20/2021,,"Under negotiation, donation of 5K doses from Israel "
+108,Moderna_mRNA-1273,,USA,Israel ,High income ," $66,000,000 ","6,000,000","96,758",2.0," 3,000,000 "," 9,053,300 ",33%,,,,1/4/2021,,Confirmed agreement
+109,Moderna_mRNA-1273,,USA,Japan,High income ,,"50,000,000","4,332",2.0," 25,000,000 "," 126,264,931 ",20%,,,,,,Confirmed agreement
+110,Moderna_mRNA-1273,,USA,Mexico ,Upper middle income,,,"17,961",2.0,," 127,575,529 ",," 39,000,000 ","19,500,000",15%,,,Under negotiation 
+111,Moderna_mRNA-1273,,USA,Peru ,Upper middle income ,,,"52,138",2.0,," 32,510,453 ",,,,,,,Under negotiation 
+112,Moderna_mRNA-1273,,USA,Philippines,Lower middle income,,"13,000,000","8,782",2.0," 6,500,000 "," 108,116,615 ",6%," 7,000,000 ","3,500,000",3%,,,Confirmed agreement
+113,Moderna_mRNA-1273,,USA,Qatar ,High income ,,,"69,134",2.0,," 2,832,067 ",,,,,2/11/2021,,"Confirmed agreement, unknown amount "
+114,Moderna_mRNA-1273,,USA,Singapore ,High income ,,,"10,406",2.0,," 5,703,569 ",,,,,2/3/2021,,"Confirmed agreement, unknown amount "
+115,Moderna_mRNA-1273,,USA,South Korea ,High income ,,"40,000,000","2,275",2.0," 20,000,000 "," 51,709,098 ",39%,,,,,,Confirmed agreement
+116,Moderna_mRNA-1273,,USA,Switzerland,High income ,,"13,000,000","74,195",2.0," 6,500,000 "," 8,574,832 ",76%,,,,1/12/2021,1/12/2021,Confirmed agreement
+117,Moderna_mRNA-1273,,USA,UK,High income ,,"17,000,000","64,978",2.0," 8,500,000 "," 66,834,405 ",13%,,,,1/8/2021,,Confirmed agreement
+118,Moderna_mRNA-1273,,USA,USA,High income ," $1,500,000,000 ","300,000,000","96,259",2.0," 150,000,000 "," 328,239,523 ",46%," 200,000,000 ","100,000,000",30%,12/18/2020,,Confirmed agreement
+119,Novavax_NVX-CoV2373,Novavax,USA,Australia,High income ,,"51,000,000","1,161",2.0," 25,500,000 "," 25,364,307 ",101%," 10,000,000 ","5,000,000",20%,,,Confirmed agreement
+120,Novavax_NVX-CoV2373,Novavax,USA,Canada,High income ,,"52,000,000","30,604",2.0," 26,000,000 "," 37,589,262 ",69%," 24,000,000 ","12,000,000",32%,,,Confirmed agreement
+121,Novavax_NVX-CoV2373,Novavax,USA,COVAX ,Global Entity ,,,,2.0,,,," 550,000,000 ","275,000,000",,,,Under negotiation
+122,Novavax_NVX-CoV2373,SII,USA,COVAX ,Global Entity ,,,,2.0,,,," 550,000,000 ","275,000,000",,,,Under negotiation
+123,Novavax_NVX-CoV2373,Novavax,USA ,EU ,High income,,,"66,844",2.0,," 447,512,041 ",," 200,000,000 ","100,000,000",22%,,,Under negotiation 
+124,Novavax_NVX-CoV2373,SII,USA,India,Lower middle income,,,"11,544",2.0,," 1,366,417,754 ",," 500,000,000 ","250,000,000",18%,,,Potential reserve for India 
+125,Novavax_NVX-CoV2373,Novavax,USA ,Indonesia ,Upper middle income,,"50,000,000","5,925",2.0," 25,000,000 "," 270,625,568 ",9%,,,,,,Confirmed agreement
+126,Novavax_NVX-CoV2373,Novavax,USA ,Mexico ,Upper middle income,,,"17,961",2.0,," 127,575,529 ",," 10,000,000 ","5,000,000",4%,,,Under negotiation 
+127,Novavax_NVX-CoV2373,Novavax,USA ,New Zealand,High income ,,"10,700,000",539,2.0," 5,350,000 "," 4,917,000 ",109%,,,,,,Confirmed agreement
+128,Novavax_NVX-CoV2373,Novavax,USA,Peru ,Upper middle income ,,,"52,138",2.0,," 32,510,453 ",," 12,000,000 ","6,000,000",18%,,,Under negotiation 
+129,Novavax_NVX-CoV2373,SII,USA,Philippines,Lower middle income,,"30,000,000","8,782",2.0," 15,000,000 "," 108,116,615 ",14%,"600,000","300,000",0%,,,Confirmed agreement
+130,Novavax_NVX-CoV2373,Novavax,USA,South Korea,High income ,,"40,000,000","2,275",2.0," 20,000,000 "," 51,709,098 ",39%,,,,,,Confirmed agreement
+131,Novavax_NVX-CoV2373,Novavax,USA,Switzerland,High income,,,"74,195",2.0, -   ," 8,574,832 ",," 6,000,000 ","3,000,000",35%,,,Under negotiation
+132,Novavax_NVX-CoV2373,Novavax,USA,UK,High income ,,"60,000,000","64,978",2.0," 30,000,000 "," 66,834,405 ",45%,,,,,,Confirmed agreement
+133,Novavax_NVX-CoV2373,SII,USA,Ukraine,Lower middle income ,,"15,000,000","46,361",2.0," 7,500,000 "," 44,385,155 ",17%,,,,,,Confirmed agreement
+134,Novavax_NVX-CoV2373,Novavax,USA,USA,High income ," $1,600,000,000 ","110,000,000","96,259",2.0," 55,000,000 "," 328,239,523 ",17%,,,,,,Confirmed agreement; includes US military deal
+135,Gamaleya Research Institute_Sputnik V,,Russia,African Union ,Low income ,,,"3,329",2.0,," 1,359,998,350 ",," 300,000,000 ","150,000,000",11%,,,Under negotiation
+136,Gamaleya Research Institute_Sputnik V,,Russia,Algeria ,Lower middle income ,,,"2,741",2.0,," 43,053,054 ",,,,,1/10/2021,,"Confirmed agreement, unknown amount "
+137,Gamaleya Research Institute_Sputnik V,,Russia,Argentina,Upper middle income ,,"30,000,000","61,279",2.0," 15,000,000 "," 44,938,712 ",33%,,,,12/23/2020,,Confirmed agreement
+138,Gamaleya Research Institute_Sputnik V,,Russia,Armenia,Upper middle income ,,"1,000,000","71,043",2.0," 500,000 "," 96,462,106 ",1%,,,,,,Confirmed agreement 
+139,Gamaleya Research Institute_Sputnik V,,Russia,Belarus ,Upper middle income ,,"100,000","36,756",2.0," 50,000 "," 44,938,712 ",0.1%,,,,12/21/2020,,Confirmed agreement
+140,Gamaleya Research Institute_Sputnik V,,Russia,Bolivia,Lower middle income ,,"2,600,000","25,106",2.0," 1,300,000 "," 11,513,100 ",11%,,,,1/6/2021,,Confirmed agreement
+141,Gamaleya Research Institute_Sputnik V,,Russia,Bosnia,Upper middle income ,,,"58,862",2.0,," 3,301,000 ",," 500,000 ","250,000",8%,2/5/2021,,Under negotiation
+142,Gamaleya Research Institute_Sputnik V,,Russia,Brazil,Upper middle income,,"10,000,000","66,442",2.0," 5,000,000 "," 211,049,527 ",2%," 45,000,000 ","22,500,000",11%,,,"Confirmed gov't purchase, Bahi State and Sao Paulo purchase under negotiation "
+143,Gamaleya Research Institute_Sputnik V,,Russia,Chile ,High income ,,,"59,709",2.0,," 18,952,038 ",,,,,,,Under negotiation 
+144,Gamaleya Research Institute_Sputnik V,,Russia,Colombia ,Upper middle income ,,,"53,089",2.0,," 50,339,443 ",,,,,,,under negotiation 
+145,Gamaleya Research Institute_Sputnik V,,Russia,Croatia,High income ,,,"76,347",2.0,," 4,067,500 ",,,,,,,"Under negotiation, unknown amount"
+146,Gamaleya Research Institute_Sputnik V,,Russia,Cyprus,High income,,,"67,205",2.0,," 1,198,575 ",," 50,000 ","25,000",2%,,,Under negotiation
+147,Gamaleya Research Institute_Sputnik V,,Russia,Egypt,Lower middle income,,"25,000,000","2,139",2.0," 12,500,000 "," 100,388,073 ",12%,,,,2/24/2021,,Confirmed agreement
+148,Gamaleya Research Institute_Sputnik V,,Russia,Germany ,High income ,,,"38,467",2.0,," 83,132,799 ",," 2,500,000 ","1,250,000",2%,,,Under negotiation 
+149,Gamaleya Research Institute_Sputnik V,,Russia,Guatemala,Upper middle income ,,,"12,075",2.0,," 16,604,026 ",," 16,000,000 ","8,000,000",48%,2/25/2021,,Under negotiation 
+150,Gamaleya Research Institute_Sputnik V,,Russia,Honduras,Lower middle income,,"70,000","20,436",2.0," 35,000 "," 9,746,117 ",0%,,,,2/24/2021,,Confirmed agreement
+151,Gamaleya Research Institute_Sputnik V,,Russia,Hungary,High income ,,"2,000,000","78,399",2.0," 1,000,000 "," 9,769,949 ",10%,,,,1/21/2021,,Confirmed agreement
+152,Gamaleya Research Institute_Sputnik V,,Russia,India ,Lower middle income ,,"100,000,000","11,544",2.0," 50,000,000 "," 1,366,417,754 ",4%,,,,,,Confirmed agreement
+153,Gamaleya Research Institute_Sputnik V,,Russia,Iran,Upper middle income ,,"2,000,000","27,524",2.0," 1,000,000 "," 82,913,906 ",1%,,,,1/26/2021,,Confirmed agreement
+154,Gamaleya Research Institute_Sputnik V,,Russia,Iraq,Upper middle income ,,"1,000,000","24,908",2.0," 500,000 "," 39,309,783 ",1%,,,,3/4/2021,,Confirmed agreement
+155,Gamaleya Research Institute_Sputnik V,,Russia,Kazakhstan,Upper middle income ,,"2,000,000","18,639",2.0," 1,000,000 "," 18,513,930 ",5%," 3,000,000 ","1,500,000",8%,1/18/2021,,Confirmed agreement
+156,Gamaleya Research Institute_Sputnik V,,Russia,Lebanon,Upper middle income ,,"1,000,000","75,466",2.0," 500,000 "," 6,855,713 ",," 1,000,000 ","500,000",7%,2/5/2021,,Confirmed agreement
+157,Gamaleya Research Institute_Sputnik V,,Russia,Malaysia ,Upper middle income,,"6,400,000","11,797",2.0," 3,200,000 "," 31,949,777 ",10%,,,,,,Confirmed agreement
+158,Gamaleya Research Institute_Sputnik V,,Russia,Mauritius,High income ,,,947,2.0,," 100,388,073 ",," 1,000,000 ","500,000",0.5%,,,Under negotiation
+159,Gamaleya Research Institute_Sputnik V,,Russia,Mexico ,Upper middle income ,,"24,000,000","17,961",2.0," 12,000,000 "," 127,575,529 ",9%,,,,2/2/2021,,Confirmed agreement
+160,Gamaleya Research Institute_Sputnik V,,Russia,Nepal ,Lower middle income ,,"25,000,000","9,946",2.0," 12,500,000 "," 28,608,710 ",44%,,,,,,Confirmed agreement
+161,Gamaleya Research Institute_Sputnik V,,Russia,North Macedonia,Upper middle income ,,"200,000","71,335",2.0," 100,000 "," 2,083,459 ",5%,,,,3/7/2021,,Confirmed agreement
+162,Gamaleya Research Institute_Sputnik V,,Russia,Pakistan,Lower middle income,,"200,000","3,523",2.0," 100,000 "," 216,565,318 ",0.05%,,,,1/23/2021,,Confirmed agreement
+163,Gamaleya Research Institute_Sputnik V,,Russia,Palestine ,Lower middle income ," $21,000,000 ","10,000","56,068",2.0," 5,000 "," 5,168,185 ",0.10%," 100,000 ","50,000",1%,1/11/2021,,"Under negotiation for the 100M, the 10,000 initial doses were provided as a gift"
+164,Gamaleya Research Institute_Sputnik V,,Russia,Panama ,High income ,,,"83,823",2.0,," 4,246,439 ",," 3,000,000 ","1,500,000",35%,4/7/2021,,Letter of intent signed 
+165,Gamaleya Research Institute_Sputnik V,,Russia,Paraguay ,Upper middle income ,,,"36,131",2.0,," 7,044,636 ",,,,,1/15/2021,,"Confirmed agreement, unknown amount "
+166,Gamaleya Research Institute_Sputnik V,,Russia,Philippines,Lower middle income,,,"8,782",2.0,," 108,116,615 ",," 20,000,000 ","10,000,000",9%,3/19/2021,,Under negotiation 
+167,Gamaleya Research Institute_Sputnik V,,Russia,Russia ,Upper middle income ,,,"32,026",2.0,," 144,373,535 ",,,,,8/11/2020,8/11/2020,"Domestic purchase, unknown amount "
+168,Gamaleya Research Institute_Sputnik V,,Russia,San Marino,High income ,,"7,500","148,624",2.0," 3,750 "," 33,860 ",11%,,,,2/19/2021,,Confirmed agreement
+169,Gamaleya Research Institute_Sputnik V,,Russia,Saudi Arabia,High income ,,,"11,721",2.0,," 34,268,528 ",,,,,,,"Confirmed agreement, unknown amount "
+170,Gamaleya Research Institute_Sputnik V,,Russia,Serbia ,Upper middle income ,,"2,000,000","98,581",2.0," 1,000,000 "," 6,944,975 ",14%,,,,12/31/2020,,Confirmed agreement
+171,Gamaleya Research Institute_Sputnik V,,Russia,Slovakia,High income,,"2,000,000","69,139",2.0," 1,000,000 ",5454073,18%,,,,3/1/2021,,Confirmed agreement
+172,Gamaleya Research Institute_Sputnik V,,Russia,South Africa,Upper middle income ,,,"26,471",2.0,," 58,558,270 ",,,,,,,under negotiation 
+173,Gamaleya Research Institute_Sputnik V,,Russia,Sri Lanka,Lower middle income,,"7,000,000","4,579",2.0," 3,500,000 "," 21,803,000 ",16%,,,,3/4/2021,,Confirmed agreement
+174,Gamaleya Research Institute_Sputnik V,,Russia,Syria ,Low income ,,,"1,233",2.0,," 17,070,135 ",,,,,2/22/2021,,"Unknown amount, donation from Israel as part of a prisoner swap "
+175,Gamaleya Research Institute_Sputnik V,,Russia,Tunisia ,Lower middle income ,,"500,000","24,693",2.0," 250,000 "," 11,694,719 ",2%,,,,1/30/2021,,Confirmed agreement
+176,Gamaleya Research Institute_Sputnik V,,Russia,Uzbekistan ,Lower middle income,,"1,000,000","2,616",2.0," 500,000 "," 33,580,650 ",1%," 35,000,000 ","17,500,000",52%,2/12/2021,,Confirmed agreement
+177,Gamaleya Research Institute_Sputnik V,,Russia,Venezuela,Upper middle income ,,"10,000,000","6,567",2.0," 5,000,000 "," 28,515,829 ",18%,,,,1/13/2021,,Confirmed agreement
+178,Gamaleya Research Institute_Sputnik V,,Russia,Vietnam,Lower middle income,,"50,000,000",29,2.0," 25,000,000 "," 96,462,106 ",26%," 100,000,000 ","50,000,000",52%,2/26/2021,,Confirmed agreement
+179,Janssen (J&J)_Ad26.COV2.S,,Belgium ,African Union ,Low income ,,"220,000,000","3,329",1.0," 220,000,000 "," 1,359,998,350 ",16%," 180,000,000 ","180,000,000",13%,,,Confirmed agreement
+180,Janssen (J&J)_Ad26.COV2.S,,Belgium ,Brazil ,Upper middle income ,,"38,000,000","66,442",1.0," 38,000,000 "," 211,049,527 ",18%,,,,3/31/2021,,Confirmed agreement 
+181,Janssen (J&J)_Ad26.COV2.S,,Belgium ,Canada,High income ,,"10,000,000","30,604",1.0," 10,000,000 "," 37,589,262 ",27%," 28,000,000 ","28,000,000",74%,3/5/2021,,Confirmed agreement
+182,Janssen (J&J)_Ad26.COV2.S,,Belgium ,Chile ,High income ,,"4,000,000","59,709",1.0," 4,000,000 "," 18,952,038 ",21%,,,,,,Confirmed agreement
+183,Janssen (J&J)_Ad26.COV2.S,,Belgium ,Colombia ,Upper middle income ,,"9,000,000","53,089",1.0," 9,000,000 "," 50,339,443 ",18%,,,,3/26/2021,,Confirmed agreement
+184,Janssen (J&J)_Ad26.COV2.S,,Belgium ,COVAX ,Global Entity ,,"500,000,000",,1.0," 500,000,000 ",,,,,,3/12/2021,,Confirmed agreement
+185,Janssen (J&J)_Ad26.COV2.S,,Belgium ,EU ,High income ,,"200,000,000","66,844",1.0," 200,000,000 "," 447,512,041 ",45%," 200,000,000 ","200,000,000",45%,3/11/2021,,Confirmed agreement
+186,Janssen (J&J)_Ad26.COV2.S,,Belgium ,Mexico ,Upper middle income ,,,"17,961",1.0,," 127,575,529 ",," 22,000,000 ","22,000,000",17%,,,Under negotiation 
+187,Janssen (J&J)_Ad26.COV2.S,,Belgium ,New Zealand,High income ,,"2,000,000",539,1.0," 2,000,000 "," 4,917,000 ",41%," 3,000,000 ","3,000,000",61%,,,Confirmed agreement
+188,Janssen (J&J)_Ad26.COV2.S,,Belgium ,Peru ,Upper middle income ,,,"52,138",1.0,," 32,510,453 ",," 5,000,000 ","5,000,000",15%,,,Under negotiation 
+189,Janssen (J&J)_Ad26.COV2.S,,Belgium ,Philippines,Lower middle income,,"5,000,000","8,782",1.0," 5,000,000 "," 108,116,615 ",5%,,,,4/19/2021,,Confirmed agreement
+190,Janssen (J&J)_Ad26.COV2.S,,Belgium ,South Africa,Upper middle income ,,"11,000,000","26,471",1.0," 11,000,000 "," 58,558,270 ",19%," 20,000,000 ","20,000,000",34%,4/1/2021,,Confirmed agreement
+191,Janssen (J&J)_Ad26.COV2.S,,Belgium ,South Korea,High income ,,"6,000,000","2,275",1.0," 6,000,000 "," 51,709,098 ",12%,,,,4/7/2021,,Confirmed agreement
+192,Janssen (J&J)_Ad26.COV2.S,,Belgium ,UK,High income ,,"30,000,000","64,978",1.0," 30,000,000 "," 66,834,405 ",45%," 22,000,000 ","22,000,000",33%,,,Confirmed agreement
+193,Janssen (J&J)_Ad26.COV2.S,,Belgium ,USA,High income ," $1,000,000,000 ","100,000,000","96,259",1.0," 100,000,000 "," 328,239,523 ",30%," 200,000,000 ","200,000,000",61%,2/27/2021,,Confirmed agreement
+194,Sanofi-GSK_SARS-CoV-2 Vaccine,,France/UK,Canada,High income ,,"72,000,000","30,604",2.0," 36,000,000 "," 37,589,262 ",96%,,,,,,Confirmed agreement
+195,Sanofi-GSK_SARS-CoV-2 Vaccine,,France/UK,COVAX ,Global Entity,,"200,000,000",,2.0," 100,000,000 ",,,,,,,,Confirmed agreement
+196,Sanofi-GSK_SARS-CoV-2 Vaccine,,France/UK,EU ,High income ,,"300,000,000","66,844",2.0," 150,000,000 "," 447,512,041 ",34%,,,,,,Confirmed agreement
+197,Sanofi-GSK_SARS-CoV-2 Vaccine,,France/UK,UK,High income ,,"60,000,000","64,978",2.0," 30,000,000 "," 66,834,405 ",45%,,,,,,Confirmed agreement
+198,Sanofi-GSK_SARS-CoV-2 Vaccine,,France/UK,USA,High income ,"$2,100,000,000","100,000,000","96,259",2.0," 50,000,000 "," 328,239,523 ",15%," 500,000,000 ","250,000,000",76%,,,Confirmed agreement
+199,CureVac_CVnCov,,Germany ,EU ,High income ,,"225,000,000","66,844",2.0," 112,500,000 "," 447,512,041 ",25%," 180,000,000 ","90,000,000",20%,,,Confirmed agreement
+200,CureVac_CVnCov,,Germany ,Germany ,High income ,,,"38,467",2.0,," 83,132,799 ",," 20,000,000 ","10,000,000",12%,,,Under negotiation 
+201,CureVac_CVnCov,,Germany ,Mexico ,Upper middle income ,,,"17,961",2.0,," 127,575,529 ",," 35,000,000 ","17,500,000",14%,,,Under negotiation 
+202,CureVac_CVnCov,,Germany ,Peru ,Upper middle income ,,,"52,138",2.0,," 32,510,453 ",,,,,,,Under negotiation 
+203,CureVac_CVnCov,,Germany ,Saudi Arabia,High income ,,,"11,721",2.0,," 34,268,528 ",,,,,,,"Confirmed agreement, unknown amount "
+204,CureVac_CVnCov,,Germany ,Switzerland,High income,,"5,000,000","74,195",2.0," 2,500,000 "," 8,574,832 ",29%,,,,,,Confirmed agreement
+205,CureVac_CVnCov,,Germany ,UK,High income ,,"50,000,000","64,978",2.0," 25,000,000 "," 66,834,405 ",37%,,,,,,Confirmed agreement
+206,Arcturus Therapeutics_LUNAR-COV19,,USA,Israel ,High income ," $275,000,000 ","4,000,000","96,758",1.0," 4,000,000 "," 9,053,300 ",44%,,,,,,Confirmed agreement
+207,Arcturus Therapeutics_LUNAR-COV19,,USA,Singapore,High income ,,,"10,406",1.0,," 5,703,569 ",,,,,,,Funding for vaccine purchases available but don't know how many doses
+208,Medicago_CoVLP,,Canada ,Canada,High income ,,"76,000,000","30,604",2.0," 38,000,000 "," 37,589,262 ",101%,,,,,,Confirmed agreement
+209,COVAXX (United Biomedical)_UB-162,,USA ,Brazil ,Upper middle income ,,,"66,442",2.0,," 211,049,527 ",,,,,,,"Under negotiation, unknown amount"
+210,COVAXX (United Biomedical)_UB-162,,USA ,Ecuador ,Upper middle income,,"2,000,000","20,566",2.0," 1,000,000 "," 17,373,662 ",6%,,,,,,Confirmed agreement
+211,COVAXX (United Biomedical)_UB-162,,USA ,Peru ,Upper middle income ,,,"52,138",2.0,," 32,510,453 ",,,,,,,"Under negotiation, unknown amount"
+212,Valneva_VLA2001,,France,EU ,High income ,,,"66,844",2.0,," 447,512,041 ",," 60,000,000 ","30,000,000",7%,,,Under negotiation 
+213,Valneva_VLA2001,,France,UK,High income ," $603,010,000 ","100,000,000","64,978",2.0," 50,000,000 "," 66,834,405 ",75%," 90,000,000 ","45,000,000",67%,,,Confirmed agreement
+214,COVAX Vaccines,,,COVAX,Global Entity,,"210,000,000",,,,,," 900,000,000 ",,,,,Confirmed agreement
+215,Bharat Biotech_COVAXIN,,India,Brazil ,Upper middle income ,,"20,000,000","66,442",2.0," 10,000,000 "," 211,049,527 ",4.7%,,,,,,Confirmed agreement
+216,Bharat Biotech_COVAXIN,,India,India ,Lower middle income ,,"5,500,000","11,544",2.0," 2,750,000 "," 1,366,417,754 ",0.2%," 4,500,000 ","2,250,000",0.16%,1/3/2021,,"Confirmed agreement, 800,000 doses to be donated to Mauritius, Philippines and Myanmar as a goodwill "
+217,Bharat Biotech_COVAXIN,,India,Iran,Upper middle income ,,"500,000","27,524",2.0," 250,000 "," 82,913,906 ",0.3%,,,,2/17/2021,,Confirmed agreement
+218,Bharat Biotech_COVAXIN,,India,Philippines,Lower middle income ,,,"8,782",2.0,," 108,116,615 ",," 8,000,000 ","4,000,000",3.70%,4/19/2021,,Under negotiation
+219,Bharat Biotech_COVAXIN,,India,USA,High income ,,,"96,259",2.0,," 1,366,417,754 ",," 100,000,000 ","50,000,000",3.66%,,,Under negotiation 
+220,Sinovac_Coronavac ,,China,Albania ,Upper middle income,,"1,000,000","45,166",2.0," 500,000 "," 2,854,191 ",18%,,,,,,Confirmed agreement
+221,Sinovac_Coronavac ,,China,Azerbaijan,Upper middle income ,,"9,000,000","30,173",2.0," 4,500,000 "," 10,023,318 ",45%, , , ,1/18/2021,,Confirmed agreement
+222,Sinovac_Coronavac ,,China,Benin,Lower middle income ,,"203,000",637,2.0," 101,500 "," 11,801,151 ",1%,,,,,,"Confirmed agreement, 100K donated & 103K purchased"
+223,Sinovac_Coronavac ,,China,Brazil,Upper middle income ," $90,000,000 ","100,000,000","66,442",2.0," 50,000,000 "," 211,049,527 ",24%,,,,1/17/2021,,Confirmed agreement
+224,Sinovac_Coronavac ,,China,Cambodia,Lower middle income ,,"1,500,000",463,2.0," 750,000 "," 16,486,542 ",5%,"4,000,000","2,000,000",12%,2/12/2021,,Confirmed agreement
+225,Sinovac_Coronavac ,,China,Chile,High income ,,"60,000,000","59,709",2.0," 30,000,000 "," 18,952,038 ",158%,,,,1/20/2021,,Confirmed agreement
+226,Sinovac_Coronavac ,,China,China ,Upper middle income ,,,71,2.0,," 1,397,715,000 ",,,,,8/28/2020,2/6/2021,"Domestic purchase, unknown amount "
+227,Sinovac_Coronavac ,,China,Colombia,Upper middle income ,,"7,500,000","53,089",2.0," 3,750,000 "," 50,339,443 ",7%,"5,000,000","2,500,000",5%,2/5/2021,,Confirmed agreement
+228,Sinovac_Coronavac ,,China,Ecuador ,Upper middle income,,"2,020,000","20,566",2.0," 1,010,000 "," 17,373,662 ",6%,,,,2/25/2021,,"Confirmed agreement, 20,000 donation from Chile"
+229,Sinovac_Coronavac ,,China,El Salvador,Lower middle income,,"2,150,000","10,485",2.0," 1,075,000 "," 6,453,553 ",17%,,,,,,"Confirmed agreement, 2M purchase 150,000 donation from China"
+230,Sinovac_Coronavac ,,China,Hong Kong,High income,,"7,500,000"," 1,561 ",2.0," 3,750,000 "," 7,507,400 ",50%,,,,2/18/2021,,Confirmed agreement
+231,Sinovac_Coronavac ,,China,Indonesia,Upper middle income ,,"125,500,000","5,925",2.0," 62,750,000 "," 270,625,568 ",23%,,,,1/11/2021,,Confirmed agreement
+232,Sinovac_Coronavac ,,China,Malaysia ,Upper middle income ,,"14,000,000","11,797",2.0," 7,000,000 "," 31,949,777 ",22%,,,,3/2/2021,,Confirmed agreement
+233,Sinovac_Coronavac ,,China,Mauritius,High income ,,,947,2.0,," 100,388,073 ",," 500,000 ","250,000",0.2%,,,Under negotiation
+234,Sinovac_Coronavac ,,China,Mexico ,Upper middle income,,"20,000,000","17,961",2.0," 10,000,000 "," 127,575,529 ",8%,,,,2/10/2021,,Confirmed agreement
+235,Sinovac_Coronavac,,China ,Moldova,Lower middle income ,,,"61,327",2.0,," 2,657,637 ",,"400,000","200,000",8%,,,Under negotiation
+236,Sinovac_Coronavac ,,China,Peru ,Upper middle income ,,,"52,138",2.0,," 32,510,453 ",," 7,000,000 ","3,500,000",11%,,,Under negotiation 
+237,Sinovac_Coronavac ,,China,Philippines,Lower middle income,"367,500,000",25000000,"8,782",2.0,"12,500,000","108,116,615",12%,,,,2/22/2021, ,Confirmed agreement
+238,Sinovac_Coronavac ,,China,Singapore ,High income ,,,"10,406",2.0,," 5,703,569 ",,,,,,,"Confirmed agreement, unknown amount "
+239,Sinovac_Coronavac ,,China,Thailand ,Upper middle income ,,"7,100,000",668,2.0," 1,000,000 "," 69,625,582 ",1%, ,,,2/22/2021, ,"Confirmed agreement, 100K purchased by the private sector "
+240,Sinovac_Coronavac ,,China,Turkey ,Upper middle income , ,"100,000,000","52,723",2.0," 50,000,000 "," 83,429,615 ",60%,,,,1/13/2021, ,Confirmed agreement
+241,Sinovac_Coronavac ,,China,Ukraine ,Lower middle income ," 32,400,000 ","5,000,000","46,361",2.0," 2,500,000 "," 44,385,155 ",6%,,,,3/9/2021,3/9/2021,Confirmed agreement
+242,Sinovac_Coronavac ,,China,Uruguay ,High income ,,"1,700,000","49,688",2.0," 850,000 "," 3,461,734 ",25%,,,,2/6/2021,,Confirmed agreement
+243,Sinovac_Coronavac ,,China,Zimbabwe,Lower middle income ,,"1,200,000","2,555",2.0," 600,000 "," 100,388,073 ",1%,,,,3/10/2021,,Confirmed agreement
+244,Sinopharm,,China,Argentina,Upper middle income ,,"4,000,000","61,279",2.0," 2,000,000 "," 44,938,712 ",4%,,,,2/21/2021,,Confirmed agreement
+245,Sinopharm,,China,Bahrain,High income ,,"300,000","98,241",2.0," 150,000 "," 1,641,172 ",9%,,,,12/13/2020,,Confirmed agreement
+246,Sinopharm,,China,Bolivia,Lower middle income ,,"500,000","25,106",2.0," 250,000 "," 11,513,100 ",2%,,,,2/25/2021,,Confirmed agreement; purchased 400K doses & received 100K as a gift
+247,Sinopharm,,China ,China ,Upper middle income,,,71,2.0,," 1,397,715,000 ",,,,,,12/31/2020,"Domestic purchase, unknown amount "
+248,Sinopharm ,,China,Egypt,Lower middle income,,"40,000,000","2,139",2.0," 20,000,000 "," 100,388,073 ",20%,,,,1/3/2021,,Confirmed agreement 
+249,Sinopharm,,China,Hungary ,High income ,,"5,000,000","78,399",2.0," 2,500,000 "," 9,769,949 ",26%,,,,1/29/2021,,Confirmed agreement 
+250,Sinopharm,,China,Jordan,Upper middle income ,,"150,000","68,155",2.0," 75,000 "," 10,101,694 ",1%,,,,1/9/2021,,Confirmed agreement
+251,Sinopharm,,China,Mexico ,Upper middle income,,"12,000,000","17,961",2.0," 6,000,000 "," 127,575,529 ",5%,,,,,,Confirmed agreement
+252,Sinopharm,,China,Mongolia,Lower middle income ,,"300,000","7,737",2.0," 150,000 "," 3,225,167 ",5%,,,,,,Confirmed agreement
+253,Sinopharm,,China,Morocco,Lower middle income ,,"41,000,000","13,745",2.0," 20,500,000 "," 36,471,769 ",56%,,,,1/22/2021,,Confirmed agreement
+254,Sinopharm,,China,Pakistan,Lower middle income ,,"1,500,000","3,523",2.0," 750,000 "," 216,565,318 ",0.35%,"20,000,000","10,000,000",5%,1/18/2021,,Purchased 1 million; waiting to confirm a 4 million from Cansino and Sinopharm combined
+255,Sinopharm,,China,Peru ,Upper middle income,"$26,000,000 ","38,000,000","52,138",2.0," 19,000,000 "," 32,510,453 ",58%,,,,1/27/2021,,Confirmed agreement
+256,Sinopharm,,China,Senegal,lower middle income ,"$3,800,000 ","200,000","2,384",2.0," 100,000 "," 16,296,364 ",1%,,,,2/23/2021,,Confirmed agreement
+257,Sinopharm,,China,Serbia,Upper middle income ,,"3,000,000","98,581",2.0," 1,500,000 "," 6,944,975 ",22%,,,,1/19/2021,,Confirmed agreement
+258,Sinopharm,,China,Somalia,Low income,,"200,000",847,2.0," 100,000 "," 15,442,905 ",1%,,,,,,Confirmed agreement
+259,Sinopharm,,China,United Arab Emirates ,High income ,,"3,000,000","50,836",2.0," 1,500,000 "," 9,770,529 ",15%,,,,12/9/2020,,Confirmed agreement
+260,Sinopharm,,China,Zimbabwe,Lower middle income ,,"800,000","2,555",2.0," 400,000 "," 14,645,468 ",3%," 1,400,000 ","700,000",5%,2/18/2021,,"Confirmed agreement, 1.8M purchased, 400K donation "
+261,CanSino Biologics_Ad5-nCoV,,China,Chile,High income ,,"1,800,000","59,709",1.0,"1,800,000","18,952,038",9%,,,,4/7/2021,,Confirmed agreement
+262,CanSino Biologics_Ad5-nCoV,,China ,China ,Upper middle income ,,,71,1.0,," 1,397,715,000 ",,,,,,2/25/2021,"Domestic purchase, unknown amount "
+263,CanSino Biologics_Ad5-nCoV,,China,Indonesia,Upper middle income ,,"15,000,000","5,925",1.0," 15,000,000 "," 270,625,568 ",6%," 5,000,000 ","5,000,000",2%,,,Confirmed agreement
+264,CanSino Biologics_Ad5-nCoV,,China,Malaysia ,Upper middle income,,3500000,"11,797",1.0," 3,500,000 "," 31,949,777 ",11%,"3,500,000","3,500,000",11%,,,Confirmed agreement
+265,CanSino Biologics_Ad5-nCoV,,China,Mexico ,Upper middle income ,,"8,000,000","17,961",1.0," 8,000,000 "," 127,575,529 ",6%,,,,2/10/2021,,Confirmed agreement
+266,CanSino Biologics_Ad5-nCoV,,China,Pakistan ,Lower middle income ,,"70,000","3,523",1.0," 70,000 "," 216,565,318 ",0.03%," 13,000,000 ","13,000,000",6%,2/12/2021,,"Purchased 70k (60K gov't, 10K private sector); waiting to confirm 13M"
+267,Anhui Zhifei Longcom Biopharmaceutical (ZFSW),,China,China ,Upper middle income ,,,71,,," 1,397,715,000 ",,,,,3/16/2021,,"Domestic purchase, unknown amount "
+268,Anhui Zhifei Longcom Biopharmaceutical (ZFSW),,China,Uzbekistan,Lower middle income,,"1,000,000","2,616",2.0," 500,000 "," 33,580,650 ",1%,,,,3/2/2021,,Confirmed agreement
+269,Chinese Academy of Medical Sciences_SARS-Cov-2,,China,China ,Upper middle income,,,71,2.0,," 1,397,715,000 ",,,,,,,"Domestic purchase, unknown amount "
+270,Sinopharm (Wuhan) ,,China ,China ,Upper middle income ,,,71,,," 1,397,715,000 ",,,,,2/25/2021,,"Domestic purchase, unknown amount "
+271,Vector Institute_EpiVacCorona,,Russia ,Russia ,Upper middle income ,,,32036,,," 144,373,535 ",,,,,10/14/2020,,"Domestic purchase, unknown amount "
+272,Chumakov Centre_CoviVac,,Russia ,Russia ,Upper middle income ,,,32036,,," 144,373,535 ",,,,,2/20/2021,,"Domestic purchase, unknown amount "
